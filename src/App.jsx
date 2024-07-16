@@ -1,6 +1,7 @@
 import "./App.css";
 // import Ejercicio6 from "./components/Ejercicio6.jsx/Ejercicio6";
-import Ejercicio7 from "./components/Ejercicio7/Ejercicio7";
+// import Ejercicio7 from "./components/Ejercicio7/Ejercicio7";
+import Ejercicio8 from "./components/Ejercicio8/Ejercicio8";
 // import Ejercicio4 from "./components/Ejercicio4/Ejercicio4";
 // import Ejercicio5 from "./components/Ejercicio5/Ejercicio5";
 // import Ejercicio2 from "./components/Ejercicio2/Ejercicio2";
@@ -16,7 +17,8 @@ function App() {
       {/* <Ejercicio4 /> */}
       {/* <Ejercicio5 /> */}
       {/* <Ejercicio6 /> */}
-      <Ejercicio7 />
+      {/* <Ejercicio7 /> */}
+      <Ejercicio8 />
     </>
   );
 }
