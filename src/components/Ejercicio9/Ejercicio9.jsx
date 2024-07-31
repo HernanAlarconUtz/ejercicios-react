@@ -35,7 +35,10 @@ const Ejercicio9 = () => {
         <FormExercise9 addAppointment={addAppointment} />
       </section>
       <section className="container">
-        <AppointmentCard appointments={appointments} deleteAppointment={deleteAppointment}/>
+        <AppointmentCard
+          appointments={appointments}
+          deleteAppointment={deleteAppointment}
+        />
       </section>
     </>
   );
